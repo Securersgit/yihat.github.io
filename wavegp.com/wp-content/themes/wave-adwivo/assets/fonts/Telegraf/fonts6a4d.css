@@ -1,0 +1,32 @@
+@font-face {
+	font-family: 'Telegraf';
+	src: url('Telegraf_UltraLight_200.eot');
+	src: url('Telegraf_UltraLight_200d41d.eot?#iefix') format('embedded-opentype'),
+		url('Telegraf_UltraLight_200.woff') format('woff'),
+		url('Telegraf_UltraLight_200.ttf') format('truetype'),
+		url('Telegraf_UltraLight_200.svg') format('svg');
+	font-style: normal;
+	font-weight: 200;
+}
+
+@font-face {
+	font-family: 'Telegraf';
+	src: url('Telegraf_Regular_400.eot');
+	src: url('Telegraf_Regular_400d41d.eot?#iefix') format('embedded-opentype'),
+		url('Telegraf_Regular_400.woff') format('woff'),
+		url('Telegraf_Regular_400.ttf') format('truetype'),
+		url('Telegraf_Regular_400.svg') format('svg');
+	font-style: normal;
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: 'Telegraf';
+	src: url('Telegraf_UltraBold_800.eot');
+	src: url('Telegraf_UltraBold_800d41d.eot?#iefix') format('embedded-opentype'),
+		url('Telegraf_UltraBold_800.woff') format('woff'),
+		url('Telegraf_UltraBold_800.ttf') format('truetype'),
+		url('Telegraf_UltraBold_800.svg') format('svg');
+	font-style: normal;
+	font-weight: 800;
+}
